@@ -9,7 +9,7 @@ Il vient du mot "table", qui veut dire "table basse", et de "basse", qui veut é
 "table basse".
 Ces deux mots proviennent de table basse.
 * Règles de grammaires
-On ajoute -je à la fin d'une question interrogative.
+On ajoute -je à la fin d'une question interrogative.  
 Un temps: L'imparfait du subjectif.
 
 esp remplace tout.
@@ -64,6 +64,8 @@ Phice = Golden ratio times
 - Largebaguette
 - le système colaire
 - une compiliation
+- un kanaipé
+- la coisine
 * Lieu
 Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 Et ceci, ad vitam eternam (surtout le provisoire, on y tient vraiment).
