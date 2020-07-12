@@ -69,6 +69,7 @@ Phice = Golden ratio times
 - manifyque
 - sinok (sinon)
 - à aujourd'hui dans plus tard
+- doit
 * Lieu
 Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 Et ceci, ad vitam eternam (surtout le provisoire, on y tient vraiment).
