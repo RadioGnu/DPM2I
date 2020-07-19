@@ -1,7 +1,7 @@
 #+TITLE: Le DPM2I (Dictionnaire Phénomal des Mots Incongrus Internationaux)
 
 * Étymologie
-Tous les mots du DPMI (ou moys, voir définition) vienne du latin.\ 
+Tous les mots du DPMI (ou moys, voir définition) vienne du latin.\n 
 Leur ancêtre en latin veut dire "table basse". Il n'y a pas d'exception. 
 Tous les mots français en latin veulent par ailleurs aussi dire "table basse". 
 Le mot "table basse" en latin veut dire table basse. 
