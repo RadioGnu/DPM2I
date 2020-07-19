@@ -83,6 +83,7 @@ Phice = Golden ratio times
 - à aujourd'hui dans plus tard
 - doit
 - enpensionnér
+- elbbump (ELBow BUMP)
 * Lieu
 Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 
