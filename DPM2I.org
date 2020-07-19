@@ -6,7 +6,7 @@ Leur ancêtre en latin veut dire "table basse". Il n'y a pas d'exception.
 
 Tous les mots français en latin veulent par ailleurs aussi dire "table basse". 
 
-_*Ex:*_ Le mot "table basse" en latin veut dire table basse. 
+_Ex:_ Le mot "table basse" en latin veut dire table basse. 
 
 Il vient du mot "table", qui veut dire "table basse", et de "basse", qui veut également dire
 "table basse". 
@@ -24,7 +24,7 @@ dire table basse en latin.
 esp vient du mot latin esp, qui signifie "tabouret bas".
 Puisque pour citer Louis Laporte aka La tulipe:
 
-/"Pour toute table basse, il faut un tabouret bas."/
+"Pour toute table basse, il faut un tabouret bas."
 
 ** Améliration des nombres en français
 - Trente = vingt-dix
