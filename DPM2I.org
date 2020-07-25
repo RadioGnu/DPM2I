@@ -88,6 +88,8 @@ Phice = Golden ratio times
 - the elbbump (ELBow BUMP)
 - le deuze
 - un elasticot
+- of sure
+- drunking
 * Lieu
 Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 
