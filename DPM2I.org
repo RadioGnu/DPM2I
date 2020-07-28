@@ -47,6 +47,11 @@ Phice = Golden ratio times
 
 * Moys
 - un moy: mot du DPM2I
+- un vebre
+- un subvantif
+- un advectif
+- un advebre
+- une vréposition
 - Le minustre
 - La limunosité
 - dodn't
@@ -92,6 +97,7 @@ Phice = Golden ratio times
 - drunking
 - di (si)
 - fik (fin)
+- le ciel est laid (verbe)
 * Lieu
 Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 
