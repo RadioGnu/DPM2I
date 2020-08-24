@@ -113,9 +113,12 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
 - *sinok:* introduit la négation d'une hypothèse évidente.
   * Ex: Manges ta soupe, sinok tu la digéreras.
 - *à aujourd'hui dans plus tard:* expression utilisée très tôt le matin(0:00 à 4:00) comme substitut à "à demain".  
-  + *Ex:* -À demain!  
-          -Mais non il est 2 heures du matin!  
-          -Ah! bah à aujourd'hui dans plus tard!
+  + *Ex:* 
+          #+BEGIN_QUOTE
+          À demain!  
+          Mais non il est 2 heures du matin!  
+          Ah! bah à aujourd'hui dans plus tard!
+          #+END_QUOTE
 - un *doit:* toit en forme de doigt.
 - *enpensionnér:* empoisonner une personne dans une pension.
 - the *elbbump (ELBow BUMP):* salutation consistant à se tapoter les coudes de manière à respecter 
