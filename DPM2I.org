@@ -1,7 +1,7 @@
 #+TITLE: Le DPM2I (Dictionnaire Phénomal des Mots Incongrus Internationaux)
 
 * Étymologie
-Tous les mots du DPMI (ou moys, voir définition) vienne du latin. 
+Tous les mots du DPMI (ou moys, voir [[moy]]) vienne du latin. 
 Leur ancêtre en latin veut dire "table basse". Il n'y a pas d'exception. 
 
 Tous les mots français en latin veulent par ailleurs aussi dire "table basse". 
@@ -51,7 +51,7 @@ mais c'était moi, DIO!
 Genre qui a pour déterminant indéfini orange et défini pomme.
 * Moys
 ** Grammoys
-- un *moy:* mot du DPM2I
+- un *<<moy>>:* mot du DPM2I
 - un *grammoy:* moy parlant de la grammaire
 - un *vebre:* moy qui est un verbe
 - un *subvantif:* moy qui est un nom
@@ -66,7 +66,7 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
 - I dod or I dodn't: équivalent de si ou di après une question négative en anglais.
 - le *neufte:* nombre qui a pour valeur pi au carré. Ex: j'ai acheté neufte pommes hier.
 - Un *mallion:* million qui se sent mal, car il vaut seulement neufte*10^5.
-- la *Biavière:* région du monde pas encore répertoriée, où se trouve le DPMI et 
+- la *<<Biavière>>:* région du monde pas encore répertoriée, où se trouve le DPMI et 
     une population importante de tables basses et de tabourets bas. Habitant: Biavièrois(e).
     Elle se trouve entre les USA et le Japon, la France et la Chine, la Russie du Sud et la Russie du Nord, 
     entre l'Arctique et l'Antartique.
@@ -84,7 +84,7 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
 	juste une pierre sur son chemin.
 	--- Maître Gims, /Bella/, 2013
         #+END_QUOTE
-- une *quéqtion:* question interrogative (voir règles de grammaire).
+- une *quéqtion:* question interrogative (voir [[Règles de grammaire]]).
 - la *balade natale:* fait de se promoner sur la carte de la bataille navale.
 - *acclocher:* accrocher des cloches à une table basse.
 - une *lomocomotive:* locomotive accédant à des lieux incongrus et non-répértoriés.
@@ -155,6 +155,6 @@ Seule la première définition est valable pour ces vebres.
 * Lieu
 Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 
-Il se trouve en Biavière (voir définition).
+Il se trouve en [[Biavière]].
 
 Et ceci, ad vitam eternam (surtout le provisoire, on y tient vraiment).
