@@ -78,7 +78,13 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
 - un *panio:* piano ne possédant plus de touches ré majeur, sur lequel on dépose un panier.
 - un *dils:* fils ayant dix frères et soeurs.
 - *lod:* être tellement amoureux qu'on en devient un caillou.  
-  + *Ex:* "J'aimerais devenir [...] juste une pierre sur son chemin." Maître Gims, /Bella/, 2013.
+  + *Ex:* 
+        #BEGIN_QUOTE
+	J'aimerais être [...]
+	juste une pierre sur son chemin.
+	--- Maître Gims, /Bella/, 2013
+        #END_QUOTE 
+"J'aimerais devenir [...] juste une pierre sur son chemin." Maître Gims, /Bella/, 2013.
 - une *quéqtion:* question interrogative (voir règles de grammaire).
 - la *balade natale:* fait de se promoner sur la carte de la bataille navale.
 - *acclocher:* accrocher des cloches à une table basse.
@@ -114,11 +120,11 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
   * Ex: Manges ta soupe, sinok tu la digéreras.
 - *à aujourd'hui dans plus tard:* expression utilisée très tôt le matin(0:00 à 4:00) comme substitut à "à demain".  
   + *Ex:* 
-          #+BEGIN_QUOTE
-          À demain!  
-          Mais non il est 2 heures du matin!  
-          Ah! bah à aujourd'hui dans plus tard!
-          #+END_QUOTE
+        #+BEGIN_VERSE
+        «- À demain!  
+        - Mais non il est 2 heures du matin!  
+        - Ah! bah à aujourd'hui dans plus tard!»
+        #+END_VERSE
 - un *doit:* toit en forme de doigt.
 - *enpensionnér:* empoisonner une personne dans une pension.
 - the *elbbump (ELBow BUMP):* salutation consistant à se tapoter les coudes de manière à respecter 
