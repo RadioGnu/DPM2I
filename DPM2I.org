@@ -83,8 +83,7 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
 	J'aimerais être [...]
 	juste une pierre sur son chemin.
 	--- Maître Gims, /Bella/, 2013
-        #+END_QUOTE 
-"J'aimerais devenir [...] juste une pierre sur son chemin." Maître Gims, /Bella/, 2013.
+        #+END_QUOTE
 - une *quéqtion:* question interrogative (voir règles de grammaire).
 - la *balade natale:* fait de se promoner sur la carte de la bataille navale.
 - *acclocher:* accrocher des cloches à une table basse.
