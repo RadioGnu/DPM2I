@@ -45,13 +45,11 @@ Pice = pi times
 
 Phice = Golden ratio times 
 
-** Tu pensais que c'était une section,
-mais c'était moi, DIO!
-*** Genre neutre
-Genre qui a pour déterminant indéfini orange et défini pomme.
+** Genre neutre
+Genre qui a pour déterminant indéfini unk et défini lke, qui sont prononcés en verlan.
 * Moys
 ** Grammoys
-- un *<<moy>>:* mot du DPM2I
+- un *moy:* mot du DPM2I
 - un *grammoy:* moy parlant de la grammaire
 - un *vebre:* moy qui est un verbe
 - un *subvantif:* moy qui est un nom
@@ -66,7 +64,7 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
 - I dod or I dodn't: équivalent de si ou di après une question négative en anglais.
 - le *neufte:* nombre qui a pour valeur pi au carré. Ex: j'ai acheté neufte pommes hier.
 - Un *mallion:* million qui se sent mal, car il vaut seulement neufte*10^5.
-- la *<<Biavière>>:* région du monde pas encore répertoriée, où se trouve le DPMI et 
+- la *Biavière:* région du monde pas encore répertoriée, où se trouve le DPMI et 
     une population importante de tables basses et de tabourets bas. Habitant: Biavièrois(e).
     Elle se trouve entre les USA et le Japon, la France et la Chine, la Russie du Sud et la Russie du Nord, 
     entre l'Arctique et l'Antartique.
@@ -139,8 +137,12 @@ Genre qui a pour déterminant indéfini orange et défini pomme.
 - *étranpoigner:* étrangler le poignet d'autrui.
 - le *maximol:* le maximum pour ne rien faire.
 - *docteur pepper:* en étant godlike, faire quelque chose.
-- orange *yoüt:* une pomme de terre. Se prononce yo-out
+- unk *yoüt:* une pomme de terre. Se prononce yo-out
 - *yoüt:* qui est n'est pas total. Se prononce yo-ut
+- *hadérer:* aimer quelque chose collant. se pronce yadérer.
+  + *Ex:* Jean-Miche hadère aux portes.
+- *bonc (meilleurc, mieuc)*: qui est bon malgré des conséquences négatives.
+  En anglais, worth.
 
 ** "Le ciel est" + adj
 - *le ciel est laid:* 
