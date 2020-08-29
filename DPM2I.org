@@ -17,6 +17,8 @@ On ajoute -je à la fin d'une question interrogative.
 
 Un temps: L'imparfait du subjectif. (je croivais)
 
+Au lieu d'écrire de la, on écrit debla.
+
 esp remplace tout. 
 esp n'est pas un moy, à ce titre, c'est le seul mot dans le DPMI qui ne veut pas
 dire table basse en latin. 
@@ -46,7 +48,8 @@ Pice = pi times
 Phice = Golden ratio times 
 
 ** Genre neutre
-Genre qui a pour déterminant indéfini unk et défini lke, qui sont prononcés en verlan.
+Genre qui a pour déterminant indéfini unk et défini lke, adjectif possessif monk, tonk, sonk, 
+qui sont prononcés en verlan.
 * Moys
 ** Grammoys
 - un *moy:* mot du DPM2I
@@ -144,6 +147,21 @@ Genre qui a pour déterminant indéfini unk et défini lke, qui sont prononcés 
 - *bonc (meilleurc, mieuc):* qui est bon malgré des conséquences négatives.
   En anglais, worth.
 - *abodonner:* s'abonner après beaucoup de forcing.
+- unk *coubreuh:* forme de coude courbé
+- un *coubras:* coup de bras.
+- un *coubra:* espèce de cobra qui a unk coubreuh.
+- *coubrer:* donner unk coubreuh.
+  + *Ex:* Je coubre un cobra, et j'obtiens un cobra coubré qui ressemble à un coubra.
+- *découbrer:* enlever lke coubreuh d'une chose.
+  + *Ex:* J'ai découbré un coubra, il ressemble désormais à un cobra.
+- *redécoubrer:* découbrer à nouveau.
+- *coubrir:* couvrir avec quelque chose de courbe. Participe passé coubert.
+- *découbrir:* enlever ce qui coubre quelqu'un ou quelque chose.
+- une *couberture:* couverture courbe.
+- un *temsp:* ambiance d'une conversation.
+  + ne pas lire le temsp: être extrêment gênant parce qu'on ne suit pas l'ambiance. 
+- *nous sommes en 2020:* pseudo-excuse pour justifier quelque chose de mauvais.
+  + *Ex:* Seb n'est pas dans ma classe, après tout nous sommes en 2020.
 
 ** "Le ciel est" + adj
 - *le ciel est laid:* 
