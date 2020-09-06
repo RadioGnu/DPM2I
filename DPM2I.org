@@ -1,4 +1,6 @@
 #+TITLE: Le DPM2I (Dictionnaire Phénomal des Mots Incongrus Internationaux)
+#+AUTHOR: Paul, Sebastien, Louis, Graham
+#+OPTIONS: toc:nil
 
 * Étymologie
 Tous les mots du DPMI (ou moys, voir définition) vienne du latin. 
@@ -144,7 +146,7 @@ qui sont prononcés en verlan.
 - *yoüt:* qui est n'est pas total. Se prononce yo-ut
 - *hadérer:* aimer quelque chose collant. se pronce yadérer.
   + *Ex:* Jean-Miche hadère aux portes.
-- *bonc (meilleurc, mieuc):* qui est bon malgré des conséquences négatives.
+- *bonc (meilleurc):* qui est bon malgré des conséquences négatives.
   En anglais, worth.
 - *abodonner:* s'abonner après beaucoup de forcing.
 - unk *coubreuh:* forme de coude courbé
@@ -168,6 +170,7 @@ qui sont prononcés en verlan.
 - *royaumer:* améliorer, en opposition à empirer.
 - se *chapirer:* se couvrir la tête avec un cahier afin de se protéger de la pluie.
 - unk *chapire:* un cahier avec lequel on se chapire. 
+- an *elbjump:* un elbump fait en sautant.
 
 ** "Le ciel est" + adj
 - *le ciel est laid:* 
