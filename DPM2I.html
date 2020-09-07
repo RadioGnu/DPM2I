@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+<!-- 2020-09-07 Mon 22:04 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Le DPM2I (Dictionnaire Phénomal des Mots Incongrus Internationaux)</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Hubert, Léopold, Benoît, James" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" href="style.css"/>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Le DPM2I (Dictionnaire Phénomal des Mots Incongrus Internationaux)</h1>
+
+<div id="outline-container-orgd5339db" class="outline-2">
+<h2 id="orgd5339db"><span class="section-number-2">1</span> Étymologie</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Tous les mots du DPMI (ou moys, voir définition) vienne du latin. 
+Leur ancêtre en latin veut dire "table basse". Il n'y a pas d'exception. 
+</p>
+
+<p>
+Tous les mots français en latin veulent par ailleurs aussi dire "table basse". 
+</p>
+
+<ul class="org-ul">
+<li><b>Ex:</b> Le mot "table basse" en latin veut dire table basse.</li>
+</ul>
+
+<p>
+Il vient du mot "table", qui veut dire "table basse", et de "basse", qui veut également dire
+"table basse". 
+</p>
+
+<p>
+Ces deux mots proviennent de table basse. 
+</p>
+</div>
+</div>
+<div id="outline-container-org4684e2f" class="outline-2">
+<h2 id="org4684e2f"><span class="section-number-2">2</span> Règles de grammaire</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+On ajoute -je à la fin d'une question interrogative.  
+</p>
+
+<p>
+Un temps: L'imparfait du subjectif. (je croivais)
+</p>
+
+<p>
+Au lieu d'écrire de la, on écrit debla.
+</p>
+
+<p>
+esp remplace tout. 
+esp n'est pas un moy, à ce titre, c'est le seul mot dans le DPMI qui ne veut pas
+dire table basse en latin. 
+</p>
+
+<p>
+esp vient du mot latin esp, qui signifie "tabouret bas".
+Puisque pour citer Louis La tulipe aka Laporte:
+</p>
+
+<p>
+"Pour toute table basse, il faut un tabouret bas."
+</p>
+</div>
+
+<div id="outline-container-org1fd7312" class="outline-3">
+<h3 id="org1fd7312"><span class="section-number-3">2.1</span> Améliration des nombres en français</h3>
+<div class="outline-text-3" id="text-2-1">
+<ul class="org-ul">
+<li>Trente = vingt-dix</li>
+<li>Quarante = deux-vingts</li>
+<li>Cinquante = deux-vingts-dix</li>
+<li>Soixante = trois-vingts</li>
+<li>Soixante-dix = trois-vingts-dix</li>
+<li>Cent = cinq-vingts</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf1f43c6" class="outline-3">
+<h3 id="orgf1f43c6"><span class="section-number-3">2.2</span> -ce in english</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Once, twice, thrice, foice, fivice, sice, sevice, eighce, ninice, tenice. 
+</p>
+
+<p>
+Elevice, twelvice, thirteence, fourteence, nineteence. 
+</p>
+
+<p>
+Twentice, twenty-once&#x2026; Thirtice&#x2026; Hundredce&#x2026; Thice&#x2026; Mice&#x2026; Bice. 
+</p>
+
+<p>
+Pice = pi times 
+</p>
+
+<p>
+Phice = Golden ratio times 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org774a2a3" class="outline-3">
+<h3 id="org774a2a3"><span class="section-number-3">2.3</span> Genre neutre</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Genre qui a pour déterminant indéfini unk et défini lke, adjectif possessif monk, tonk, sonk, 
+qui sont prononcés en verlan.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org13eb8ef" class="outline-2">
+<h2 id="org13eb8ef"><span class="section-number-2">3</span> Moys</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orge1ef879" class="outline-3">
+<h3 id="orge1ef879"><span class="section-number-3">3.1</span> Grammoys</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>un <b>moy:</b> mot du DPM2I</li>
+<li>un <b>grammoy:</b> moy parlant de la grammaire</li>
+<li>un <b>vebre:</b> moy qui est un verbe</li>
+<li>un <b>subvantif:</b> moy qui est un nom</li>
+<li>un <b>advectif:</b> moy qui est un adjectif</li>
+<li>un <b>advebre:</b> moy qui est un advebre</li>
+<li>une <b>vréposition:</b> moy qui est une préposition</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdcc1655" class="outline-3">
+<h3 id="orgdcc1655"><span class="section-number-3">3.2</span> Le reste</h3>
+<div class="outline-text-3" id="text-3-2">
+<ul class="org-ul">
+<li>un <b>minustre:</b> ministre avec une pilosité extrêment prononcée. 
+<ul class="org-ul">
+<li><b>Ex:</b> Ledru-Rollin</li>
+</ul></li>
+<li>une <b>limunosité:</b> luminosité d'origine organique.</li>
+<li>I dod or I dodn't: équivalent de si ou di après une question négative en anglais.</li>
+<li>le <b>neufte:</b> nombre qui a pour valeur pi au carré. Ex: j'ai acheté neufte pommes hier.</li>
+<li>Un <b>mallion:</b> million qui se sent mal, car il vaut seulement neufte*10<sup>5</sup>.</li>
+<li>la <b>Biavière:</b> région du monde pas encore répertoriée, où se trouve le DPMI et 
+une population importante de tables basses et de tabourets bas. Habitant: Biavièrois(e).
+Elle se trouve entre les USA et le Japon, la France et la Chine, la Russie du Sud et la Russie du Nord, 
+entre l'Arctique et l'Antartique.</li>
+<li><b>truc et préjugés:</b> livre du XVIème siècle av. JC écrit par Austen Jane. Truc subit préjugés. 
+3€30 dans toutes les librairies de la Biavière.</li>
+<li><b>attaper:</b> attaquer physiquement quelqu'un, en le tapant par exemple.</li>
+<li>une <b>scribolexicomatisation:</b> remplacment progressif du langage écrit.  
+<ul class="org-ul">
+<li><b>Ex:</b> Les réseaux sociaux provoquent une certaine scribolexicomatisation des emojis.</li>
+</ul></li>
+<li>un <b>panio:</b> piano ne possédant plus de touches ré majeur, sur lequel on dépose un panier.</li>
+<li>un <b>dils:</b> fils ayant dix frères et soeurs.</li>
+<li><b>lod:</b> être tellement amoureux qu'on en devient un caillou.  
+<ul class="org-ul">
+<li><p>
+<b>Ex:</b> 
+</p>
+<blockquote>
+<p>
+J'aimerais être [&#x2026;]
+juste une pierre sur son chemin.
+&#x2014; Maître Gims, <i>Bella</i>, 2013
+</p>
+</blockquote></li>
+</ul></li>
+<li>une <b>quéqtion:</b> question interrogative (voir Règles de grammaire).</li>
+<li>la <b>balade natale:</b> fait de se promoner sur la carte de la bataille navale.</li>
+<li><b>acclocher:</b> accrocher des cloches à une table basse.</li>
+<li>une <b>lomocomotive:</b> locomotive accédant à des lieux incongrus et non-répértoriés.
+A été inventée par George Washing-machine.  
+<ul class="org-ul">
+<li><b>Ex:</b> x.</li>
+</ul></li>
+<li><b>bruquse:</b> qui agit de manière skillée, stylée et brusque.  
+<ul class="org-ul">
+<li><b>Ex:</b> Faker.</li>
+</ul></li>
+<li><b>Girono Givoanna:</b> personnage principal de la partie 5 de JiJi's Bizarre Adventure: Gilden Wind.</li>
+<li><b>Droiven:</b> personnage de Leoigue of Legends, qui est un tireur spécialisé en ragequit.</li>
+<li>des <b>tréfondceurs:</b> endroit profond qui regorge de limunosité.</li>
+<li><b>abev:</b> indique le fait d'être muni de moins ce que l'on avait prévu. Synonyme de "seulement avec".</li>
+<li>une <b>poutoufle:</b> pantoufle coupant le souffle.</li>
+<li><b>espoutoufler:</b> provoquer un sentiment de poutoufle général. (espoutouflant)  
+<ul class="org-ul">
+<li><b>Ex:</b> Après sa blague, le public fut espoutouflé.</li>
+</ul></li>
+<li>un <b>estoupouflan:</b> plat provoquant un manque de souffle prononcé.</li>
+<li><b>esp.:</b> lien entre un tabouret bas et une table basse.</li>
+<li><b>George Washing-machine:</b> créateur de la lomocomotive.</li>
+<li><b>Marquis de Largebaguette:</b> détenteur du magasin "Votre Large Baguette", 
+trouvable dans toutes les librairies de la Biavière.</li>
+<li>le <b>système colaire:</b> système stellaire présent dans le système digestif des Biavièrois.</li>
+<li>une <b>compiliation:</b> 
+<ol class="org-ol">
+<li>compilation de compilation.</li>
+<li>décompilation d'un fichier en binaire en un fichier lisible par un humain.</li>
+</ol></li>
+<li><b>tripafouiller:</b> tripoter en fouillant.  
+<ul class="org-ul">
+<li><b>Ex:</b> J'ai malencontreusement tripafouiller un mur invisible.</li>
+</ul></li>
+<li>a <b>fraind:</b> personne extrêment lente qui freine ses amis.</li>
+<li>to <b>fraindzone:</b> être friendzone très lentement.</li>
+<li>un <b>kanaipé:</b> canapé qui fait office d'épée.</li>
+<li>une <b>coisine:</b> cuisine d'une vosine.</li>
+<li><b>manifyque:</b> qui est plus magnifique que magnifique.</li>
+<li><b>sinok:</b> introduit la négation d'une hypothèse évidente.
+<ul class="org-ul">
+<li>Ex: Manges ta soupe, sinok tu la digéreras.</li>
+</ul></li>
+<li><b>à aujourd'hui dans plus tard:</b> expression utilisée très tôt le matin(0:00 à 4:00) comme substitut à "à demain".  
+<ul class="org-ul">
+<li><b>Ex:</b>
+<ul class="org-ul">
+<li>À demain!</li>
+<li>Mais non il est 2 heures du matin!</li>
+<li>Ah! bah à aujourd'hui dans plus tard!</li>
+</ul></li>
+</ul></li>
+<li>un <b>doit:</b> toit en forme de doigt.</li>
+<li><b>enpensionnér:</b> empoisonner une personne dans une pension.</li>
+<li>the <b>elbbump (ELBow BUMP):</b> salutation consistant à se tapoter les coudes de manière à respecter 
+l'hygiène pendant une épidémie.</li>
+<li>le <b>deuze:</b> nombre aussi mystérieux que la position de la Biavière.</li>
+<li>un <b>elasticot:</b> asticot elastique.</li>
+<li><b>of sure:</b> expréssion de conscession évidente.</li>
+<li><b>drunking:</b> fait de se bourrer.</li>
+<li><b>di:</b> marque la négation après une interrogation négative.</li>
+<li><b>fik:</b> fin peu satisfaisante.</li>
+<li><b>allimer:</b> dégager de la limunosité.</li>
+<li><b>limunaire:</b> qui s'allime.</li>
+<li><b>équolent:</b> éloquent et écolo!</li>
+<li><b>casser les coudes:</b> fait d'énerver les compagnons d'infortune de son interlocuteur.</li>
+<li><b>étranpoigner:</b> étrangler le poignet d'autrui.</li>
+<li>le <b>maximol:</b> le maximum pour ne rien faire.</li>
+<li><b>docteur pepper:</b> en étant godlike, faire quelque chose.</li>
+<li>unk <b>yoüt:</b> une pomme de terre. Se prononce yo-out</li>
+<li><b>yoüt:</b> qui est n'est pas total. Se prononce yo-ut</li>
+<li><b>hadérer:</b> aimer quelque chose collant. se pronce yadérer.
+<ul class="org-ul">
+<li><b>Ex:</b> Jean-Miche hadère aux portes.</li>
+</ul></li>
+<li><b>bonc (meilleurc):</b> qui est bon malgré des conséquences négatives.
+En anglais, worth.</li>
+<li><b>abodonner:</b> s'abonner après beaucoup de forcing.</li>
+<li>unk <b>coubreuh:</b> forme de coude courbé</li>
+<li>un <b>coubras:</b> coup de bras.</li>
+<li>un <b>coubra:</b> espèce de cobra qui a unk coubreuh.</li>
+<li><b>coubrer:</b> donner unk coubreuh.
+<ul class="org-ul">
+<li><b>Ex:</b> Je coubre un cobra, et j'obtiens un cobra coubré qui ressemble à un coubra.</li>
+</ul></li>
+<li><b>découbrer:</b> enlever lke coubreuh d'une chose.
+<ul class="org-ul">
+<li><b>Ex:</b> J'ai découbré un coubra, il ressemble désormais à un cobra.</li>
+</ul></li>
+<li><b>redécoubrer:</b> découbrer à nouveau.</li>
+<li><b>coubrir:</b> couvrir avec quelque chose de courbe. Participe passé coubert.</li>
+<li><b>découbrir:</b> enlever ce qui coubre quelqu'un ou quelque chose.</li>
+<li>une <b>couberture:</b> couverture courbe.</li>
+<li>un <b>temsp:</b> ambiance d'une conversation.
+<ul class="org-ul">
+<li>ne pas lire le temsp: être extrêment gênant parce qu'on ne suit pas l'ambiance.</li>
+</ul></li>
+<li><b>nous sommes en 2020:</b> pseudo-excuse pour justifier quelque chose de mauvais.
+<ul class="org-ul">
+<li><b>Ex:</b> Seb n'est pas dans ma classe, après tout nous sommes en 2020.</li>
+</ul></li>
+<li><b>whut:</b> interjection exprimant l'incompréhension totale</li>
+<li><b>dlac:</b> formule d'aquiescement ironique, synonyme de oque.</li>
+<li><b>l'objectie:</b> étude des objets</li>
+<li><b>royaumer:</b> améliorer, en opposition à empirer.</li>
+<li>se <b>chapirer:</b> se couvrir la tête avec un cahier afin de se protéger de la pluie.</li>
+<li>unk <b>chapire:</b> un cahier avec lequel on se chapire.</li>
+<li>an <b>elbjump:</b> un elbump fait en sautant.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgbf06964" class="outline-3">
+<h3 id="orgbf06964"><span class="section-number-3">3.3</span> "Le ciel est" + adj</h3>
+<div class="outline-text-3" id="text-3-3">
+<ul class="org-ul">
+<li><b>le ciel est laid:</b> 
+<ol class="org-ol">
+<li>refléter la laideur de quelque chose sur quelque chose.
+<ul class="org-ul">
+<li><b>Ex:</b> Je le ciel est laid un blobfish sur un écran.</li>
+</ul></li>
+<li>voler abev tout sauf des ailes.
+<ul class="org-ul">
+<li><b>Ex:</b> Un pigeon Le ciel est laid à travers l'espace aérien de la Biavière.</li>
+</ul></li>
+</ol></li>
+</ul>
+
+<p>
+Il est possible de former des vebres en remplaçant laid par n'importe quel ajectif.
+Seule la première définition est valable pour ces vebres.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgf2eef58" class="outline-2">
+<h2 id="orgf2eef58"><span class="section-number-2">4</span> Lieu</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
+</p>
+
+<p>
+Il se trouve en Biavière.
+</p>
+
+<p>
+Et ceci, ad vitam eternam (surtout le provisoire, on y tient vraiment).
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Auteur: Hubert, Léopold, Benoît, James</p>
+<p class="date">Created: 2020-09-07 Mon 22:04</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -2,6 +2,7 @@
 #+AUTHOR: Hubert, Léopold, Benoît, James
 #+LANGUAGE: fr
 #+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" href="style.css"/>
 
 * Étymologie
 Tous les mots du DPMI (ou moys, voir définition) vienne du latin. 
