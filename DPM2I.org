@@ -1,5 +1,6 @@
 #+TITLE: Le DPM2I (Dictionnaire Phénomal des Mots Incongrus Internationaux)
-#+AUTHOR: Paul, Sebastien, Louis, Graham
+#+AUTHOR: Hubert, Léopold, Benoît, James
+#+LANGUAGE: fr
 #+OPTIONS: toc:nil
 
 * Étymologie
