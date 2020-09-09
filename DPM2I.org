@@ -171,8 +171,21 @@ qui sont prononcés en verlan.
 - *l'objectie:* étude des objets
 - *royaumer:* améliorer, en opposition à empirer.
 - se *chapirer:* se couvrir la tête avec un cahier afin de se protéger de la pluie.
-- unk *chapire:* un cahier avec lequel on se chapire. 
+- unk *chapire:* cahier avec lequel on se chapire. 
 - an *elbjump:* un elbump fait en sautant.
+- *racontrer*: raconter dans l'optique de contredire quelqu'un. 
+    On racontre quelque chose à quelqu'un.
+  + *Ex:*
+    - J'ai acheté une canette de soda hier dans un super-marché.
+    - Et non! C'est moi qui ait acheté cette canette.
+    - Cesse de me racontrer!
+- *ressater:* relater sans cesse la même histoire.
+- un *manikick:* kick majestueux, qui entre dans les mémoires.
+  + *Ex:* Le magnikick de James pour défaire le loup-garou.
+- *héréditarité*: Le fait d'avoir été transmissible par héridité.
+- to *studeye:* monter un étalon(stud) sans regarder.
+- *Enseignement scient:* l'étude de la science du bleu.
+- la *Géograph*: l'étude des territoires.
 
 ** "Le ciel est" + adj
 - *le ciel est laid:* 
