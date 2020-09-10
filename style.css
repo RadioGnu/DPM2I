@@ -1,6 +1,6 @@
 body{
-	background-color: gray;
-	background-image: url(img/backgound.png);
+	/*background-image: url("image/background.png");*/
+	background-color: rgb(47, 79, 79,0.5);
 	font-family: 'Segoe UI';
 }
 
@@ -28,9 +28,6 @@ p{
 	font-family: Times;
 }
 
-a{
-	color: red;
-}
 ul{
 	color: white;
 	font-family: Times;
