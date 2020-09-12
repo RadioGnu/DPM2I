@@ -11,14 +11,21 @@ header{
 	text-align: center;
 }
 
+img {
+	border-radius: 8px;
+}
+
 h1{
-	color: green;
+	color: rgb(156,0,0);
 	text-align: center;
 }
 
 h2{
-	color: red;
-	text-align: center;
+	color: goldenrod;
+}
+
+h3{
+	color: #90e4c1; 
 }
 
 p{
@@ -28,7 +35,6 @@ p{
 }
 
 ul{
-	color: white;
 	font-family: Times;
 	margin-right: 25%;
 }
@@ -40,5 +46,5 @@ ul{
 
 }
 .right{
-	margin-left: 50%;
+	margin-left: 95%;
 }
