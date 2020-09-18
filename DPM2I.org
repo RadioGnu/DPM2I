@@ -23,7 +23,7 @@ Un temps: L'imparfait du subjectif. (je croivais)
 
 Au lieu d'écrire de la, on écrit debla.
 
-esp remplace tout. 
+esp remplace tout. L'expression "c'est tout à fait évident" est équivalente.
 esp n'est pas un moy, à ce titre, c'est le seul mot dans le DPMI qui ne veut pas
 dire table basse en latin. 
 
@@ -168,7 +168,8 @@ qui sont prononcés en verlan.
   + *Ex:* Seb n'est pas dans ma classe, après tout nous sommes en 2020.
 - *whut:* interjection exprimant l'incompréhension totale
 - *dlac:* formule d'aquiescement ironique, synonyme de oque.
-- *l'objectie:* étude des objets
+- *l'objectie:* étude des objets et des moys.
+- un *objectiologue:* savant possèdant le rarissime diplôme d'objectie.
 - *royaumer:* améliorer, en opposition à empirer.
 - se *chapirer:* se couvrir la tête avec un cahier afin de se protéger de la pluie.
 - unk *chapire:* cahier avec lequel on se chapire. 
@@ -180,12 +181,26 @@ qui sont prononcés en verlan.
     - Et non! C'est moi qui ait acheté cette canette.
     - Cesse de me racontrer!
 - *ressater:* relater sans cesse la même histoire.
-- un *manikick:* kick majestueux, qui entre dans les mémoires.
+- un *magnikick:* kick majestueux, qui entre dans les mémoires.
   + *Ex:* Le magnikick de James pour défaire le loup-garou.
 - *héréditarité*: Le fait d'avoir été transmissible par héridité.
 - to *studeye:* monter un étalon(stud) sans regarder.
 - *Enseignement scient:* l'étude de la science du bleu.
 - la *Géograph*: l'étude des territoires.
+- l'*Ajie:* Région du monde non-répertoriée qui éprouve une haine particulière envers la Biavière.
+- *épeiller:* épeler un moy.
+- *en dernier record:* comme si c'est la dernière.
+- un *exencle:* exemple à l'intérieur d'un exemple.
+- un *iordre:* ordre contradictoire.
+- to *hoppen:* ouvrir par mégarde (happens)
+- *tatalitaire:* se dit d'un membre de la famille qu'on pense trop autoritaire.
+- un *annulelle:* allèle qui change une seule fois par an.
+- le *ginle:* tout linge porté par les personnes allant dans la jungle.
+- *spi:* absence d'inspi.
+- une *spiration:* absence d'inspiration.
+- un *corpolelle:* un anulelle portant des modifications visibles.
+- la *caractie:* sous-discipline de l'objectie, l'étude des caractères des objets.
+- un *rephas:* Vient du latin /refas/. Repas plus qu'excellent.
 
 ** "Le ciel est" + adj
 - *le ciel est laid:* 
@@ -203,3 +218,6 @@ Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 Il se trouve en Biavière.
 
 Et ceci, ad vitam eternam (surtout le provisoire, on y tient vraiment).
+* Science
+28 bald eagles per square gun = 1 teacup per colonized nation
+28 be.g^-2 = 1 tc/cn
