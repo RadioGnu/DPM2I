@@ -54,6 +54,27 @@ Phice = Golden ratio times
 ** Genre neutre
 Genre qui a pour déterminant indéfini unk et défini lke, adjectif possessif monk, tonk, sonk, 
 qui sont prononcés en verlan.
+* Mathématiques
+Le DPM2I définit F, l'ensemble des nombres fifous, contenant par exemple le neufte ou le mallion (voir Moys).
+
+Par ailleurs, le DPM2I utilise un système de numération en base 7 - aussi appelée base Légiion, car en effet,
+une légion, c'est un groupe de 7. Par exemple, 28 est en fait 4 légions.
+
+Citons certains théorèmes: 
+-le théorème de la demi-légion, qui énonce que:
+  La limite de 7/2 au voisinage de +\infty est +\infty.
+  Autrement dit, \lim_{x \to +\infty} 7/2 = +\infty
+- le théorème des diagonales parallèles, qui énonce que:
+  Les diagonales d'un losange sont parallèles.
+
+* Science
+Unité standard du DPM2I:
+  + 28 bald eagles per square gun = 1 teacup per colonized nation 
+  + 28 be.g^-2 = 1 tc/cn
+
+En physique, on admet que les mouvements n'existent pas, pour simplifier les calculs.
+
+/"Afin de réduire l'impact, c'est impossible, le nucléaire."/, Hupold.
 * Moys
 ** Grammoys
 - un *moy:* mot du DPM2I
@@ -63,18 +84,16 @@ qui sont prononcés en verlan.
 - un *advectif:* moy qui est un adjectif
 - un *advebre:* moy qui est un advebre
 - une *vréposition:* moy qui est une préposition
+- une *quéqtion:* question interrogative (voir Règles de grammaire).
+- *questionatif:* relatif à une quéqtion.
 
-** Le reste
+** Général
 - un *minustre:* ministre avec une pilosité extrêment prononcée. 
   + *Ex:* Ledru-Rollin
 - une *limunosité:* luminosité d'origine organique.
 - I dod or I dodn't: équivalent de si ou di après une question négative en anglais.
 - le *neufte:* nombre qui a pour valeur pi au carré. Ex: j'ai acheté neufte pommes hier.
 - Un *mallion:* million qui se sent mal, car il vaut seulement neufte*10^5.
-- la *Biavière:* région du monde pas encore répertoriée, où se trouve le DPMI et 
-    une population importante de tables basses et de tabourets bas. Habitant: Biavièrois(e).
-    Elle se trouve entre les USA et le Japon, la France et la Chine, la Russie du Sud et la Russie du Nord, 
-    entre l'Arctique et l'Antartique.
 - *truc et préjugés:* livre du XVIème siècle av. JC écrit par Austen Jane. Truc subit préjugés. 
     3€30 dans toutes les librairies de la Biavière.
 - *attaper:* attaquer physiquement quelqu'un, en le tapant par exemple. 
@@ -89,7 +108,6 @@ qui sont prononcés en verlan.
 	juste une pierre sur son chemin.
 	--- Maître Gims, /Bella/, 2013
         #+END_QUOTE
-- une *quéqtion:* question interrogative (voir Règles de grammaire).
 - la *balade natale:* fait de se promoner sur la carte de la bataille navale.
 - *acclocher:* accrocher des cloches à une table basse.
 - une *lomocomotive:* locomotive accédant à des lieux incongrus et non-répértoriés.
@@ -183,24 +201,75 @@ qui sont prononcés en verlan.
 - *ressater:* relater sans cesse la même histoire.
 - un *magnikick:* kick majestueux, qui entre dans les mémoires.
   + *Ex:* Le magnikick de James pour défaire le loup-garou.
-- *héréditarité*: Le fait d'avoir été transmissible par héridité.
 - to *studeye:* monter un étalon(stud) sans regarder.
 - *Enseignement scient:* l'étude de la science du bleu.
-- la *Géograph*: l'étude des territoires.
-- l'*Ajie:* Région du monde non-répertoriée qui éprouve une haine particulière envers la Biavière.
 - *épeiller:* épeler un moy.
 - *en dernier record:* comme si c'est la dernière.
 - un *exencle:* exemple à l'intérieur d'un exemple.
 - un *iordre:* ordre contradictoire.
 - to *hoppen:* ouvrir par mégarde (happens)
 - *tatalitaire:* se dit d'un membre de la famille qu'on pense trop autoritaire.
-- un *annulelle:* allèle qui change une seule fois par an.
 - le *ginle:* tout linge porté par les personnes allant dans la jungle.
 - *spi:* absence d'inspi.
 - une *spiration:* absence d'inspiration.
-- un *corpolelle:* un anulelle portant des modifications visibles.
 - la *caractie:* sous-discipline de l'objectie, l'étude des caractères des objets.
 - un *rephas:* Vient du latin /refas/. Repas plus qu'excellent.
+- une *malformité:* manque de formalité.
+- le *XVIII-IXème siècle:* période qui s'étend du XVIIIème au IXème siècle, dans cette ordre.
+- *en étang:* désigne quelque chose de vague.
+- *attraper malade:* attraper un malade, et en tomber malade.
+- *destruire:* instruire son destrier.
+- une *relition:* relation qui n'a lieu que dans un lit.
+- un *eil*, des *yux:* œil non circulaire.
+- *c'est chose même:* désigne la similitude entre plusieurs choses.
+- une *infomation:* information d'un ordre. (sommation)
+- l'*elereterek:* énergie du futur, surpassant l'éléctricité, utilisée en Biavière et en Ajie.
+- *elereterktique:* relatif à l'elereterek.
+  + *Ex:* Tu as vu la nouvelle centrale elereterektique ? Elle est cosy.
+- *à la même fois:* dans des conditions de temps sembalblement identiques.
+- *postique:* plastique et relatif à la poste
+- une *plachette postique:* petite planche postique.
+- une *chable:* table à chats.
+- *exiter:* ne jamais avoir existé, ne pas exister.
+- *réalite:* qui exite, qui n'a jamais existé.
+- a *houseo:* maison qui appartient aussi à celui qui utilise ce moy.
+  + *Ex:* Soit John et Kelvin 2 humains. Soit hous la maison de Kelvin.
+          Si John visite la maison de Kelvin à une fréquence supérieure ou égale à trois fois par semaine,
+	  alors John peut dire, "It's my houso" pour dire "It's also my house."
+- *volatiler:* se volatiliser par la voie des airs.
+- *donks:* expression équivalente à donc stonks.
+- le *présidont:* chef de l'état du système politique Biavèrois, supposément démocratique.
+- le *scénaroi:* chef de l'état du système politique Great-Briannais, supposément constituionellement monarchique.
+- *prour:* abréviation de "pour la proue" ou de "pour le prolétariat".
+- la *cimmunnication:* le fait de cimenter une communication.
+- un *télécphone*: moyen de cimmunication.
+- *sublimm:* réponse passe-partout à une question, quand on est inintéressé par une conversation.
+ 
+
+** Géograph
+- la *Géograph*: l'étude des territoires.
+- la *Biavière:* région du monde pas encore répertoriée, où se trouve le DPMI et 
+    une population importante de tables basses et de tabourets bas. Habitant: Biavièrois(e).
+    Elle se trouve entre les USA et le Japon, la France et la Chine, la Russie du Sud et la Russie du Nord, 
+    entre l'Arctique et l'Antartique.
+- l'*Ajie:* Région du monde non-répertoriée qui éprouve une haine particulière envers la Biavière.
+- *Great-Brian:* un pays allié de la Biavière, qui l'a notamment lors de la grande guerre de la mer
+   d'Allemagne. Habitant: Great-Briannais(es).
+- la *grande mer d'Allemagne:* espace maritime bordé par les côtes de la Somme (continue).
+
+** Science
+- *mitro:* entre l'échelle micro et téra.
+- un *mitroscope:* outil permettant d'observer des éléments à l'échelle mitro.
+- *mitroscopique:* qui s'aperçoit au moyen d'un mitroscope.
+- une *mitroparticule:* particule mitroscopique.
+- *talle:*
+*** Biologie
+- *héréditarité*: Le fait d'avoir été transmissible par héridité.
+- un *annulelle:* allèle qui change une seule fois par an.
+- un *corpolelle:* un anulelle portant des modifications visibles.
+- a *toungue:* langue en forme de u.
+- la *respirition:* respiration de l'âme du riz.
+- *respiritoire:* relatif à la respirition.
 
 ** "Le ciel est" + adj
 - *le ciel est laid:* 
@@ -218,6 +287,4 @@ Le DPMI est en effet le Département Provisoire et Momantanément Insolite.
 Il se trouve en Biavière.
 
 Et ceci, ad vitam eternam (surtout le provisoire, on y tient vraiment).
-* Science
-28 bald eagles per square gun = 1 teacup per colonized nation
-28 be.g^-2 = 1 tc/cn
+
