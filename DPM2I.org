@@ -249,13 +249,14 @@ En physique, on admet que les mouvements n'existent pas, pour simplifier les cal
 ** Géograph
 - la *Géograph*: l'étude des territoires.
 - la *Biavière:* région du monde pas encore répertoriée, où se trouve le DPMI et 
-    une population importante de tables basses et de tabourets bas. Habitant: Biavièrois(e).
+    une population importante de tables basses et de tabourets bas. Habitant: Biavièriois(e).
     Elle se trouve entre les USA et le Japon, la France et la Chine, la Russie du Sud et la Russie du Nord, 
     entre l'Arctique et l'Antartique.
 - l'*Ajie:* Région du monde non-répertoriée qui éprouve une haine particulière envers la Biavière.
 - *Great-Brian:* un pays allié de la Biavière, qui l'a notamment lors de la grande guerre de la mer
    d'Allemagne. Habitant: Great-Briannais(es).
 - la *grande mer d'Allemagne:* espace maritime bordé par les côtes de la Somme (continue).
+- le *Bundertag:* siège du parlement biavièrois.
 
 ** Science
 - *mitro:* entre l'échelle micro et téra.
