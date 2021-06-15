@@ -245,7 +245,14 @@ En physique, on admet que les mouvements n'existent pas, pour simplifier les cal
 - un *télécphone*: moyen de cimmunication.
 - *sublimm:* réponse passe-partout à une question, quand on est inintéressé par une conversation.
 - *synonimiser:* donner le synonyme d'un mot.
- 
+- un *pingolin:* race de pangolin qui se nourrit exlcusivement de pin (oui, on parle bien ici de l'abre)
+- les *malématiques:* mathématiques négatives (abréviation: "malrs")
+- *diccifile:* tellement difficile qu'on se met à parler Biavièrois.
+- *diccifilement:* de manière diccifile.
+- un *naincube:* un cube de nains cubiques, dont le chef est Thorin Écube de Chêne.
+- l'*épininsule:* légendaire épée des grands rois de Biavière. Elle porte ce nom car le territoire de ces grands rois est 
+   une péninsule en grande mer d'Allemagne. Cette péninsule est d'ailleurs caché à tous ceux qui ne possèdent pas cette épée.
+
 ** Géograph
 - la *Géograph*: l'étude des territoires.
 - la *Biavière:* région du monde pas encore répertoriée, où se trouve le DPMI et 
@@ -257,6 +264,7 @@ En physique, on admet que les mouvements n'existent pas, pour simplifier les cal
    d'Allemagne. Habitant: Great-Briannais(es).
 - la *grande mer d'Allemagne:* espace maritime bordé par les côtes de la Somme (continue).
 - le *Bundertag:* siège du parlement biavièrois.
+- le *Canal de Suel:* canal dans la ville de Suel en Biavière.
 
 ** Science
 - *mitro:* entre l'échelle micro et téra.
@@ -264,6 +272,7 @@ En physique, on admet que les mouvements n'existent pas, pour simplifier les cal
 - *mitroscopique:* qui s'aperçoit au moyen d'un mitroscope.
 - une *mitroparticule:* particule mitroscopique.
 - *talle:*
+- *surchasse:* talle au carré.
 *** Biologie
 - *héréditarité*: Le fait d'avoir été transmissible par héridité.
 - un *annulelle:* allèle qui change une seule fois par an.
