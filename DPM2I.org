@@ -252,6 +252,8 @@ En physique, on admet que les mouvements n'existent pas, pour simplifier les cal
 - un *naincube:* un cube de nains cubiques, dont le chef est Thorin Écube de Chêne.
 - l'*épininsule:* légendaire épée des grands rois de Biavière. Elle porte ce nom car le territoire de ces grands rois est 
    une péninsule en grande mer d'Allemagne. Cette péninsule est d'ailleurs caché à tous ceux qui ne possèdent pas cette épée.
+- *viendre:* venir en moonwalk.
+- *préviendre:* prévenir qu'on va viendre.
 
 ** Géograph
 - la *Géograph*: l'étude des territoires.
