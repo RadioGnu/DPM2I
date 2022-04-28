@@ -57,11 +57,11 @@ qui sont prononcés en verlan.
 * Mathématiques
 Le DPM2I définit F, l'ensemble des nombres fifous, contenant par exemple le neufte ou le mallion (voir Moys).
 
-Par ailleurs, le DPM2I utilise un système de numération en base 7 - aussi appelée base Légiion, car en effet,
+Par ailleurs, le DPM2I utilise un système de numération en base 7 - aussi appelée base Légion, car en effet,
 une légion, c'est un groupe de 7. Par exemple, 28 est en fait 4 légions.
 
 Citons certains théorèmes: 
--le théorème de la demi-légion, qui énonce que:
+- le théorème de la demi-légion, qui énonce que:
   La limite de 7/2 au voisinage de +\infty est +\infty.
   Autrement dit, \lim_{x \to +\infty} 7/2 = +\infty
 - le théorème des diagonales parallèles, qui énonce que:
